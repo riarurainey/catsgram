@@ -23,8 +23,4 @@ public class PostController {
         return postService.findPostsByUser(userId);
 
     }
-
-
-
-
 }
